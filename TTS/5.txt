@@ -1,0 +1,33 @@
+Mahojiano kati ya Mwandishi George Githuma Njogu na Kevin Omondi ambaye ni Meneja wa Jamii ya wachangiaji katika chanzo wazi ya Common Voice. 
+
+Kevin ni nani?
+Kevin ni mtafiti katika fani ya teknolojia, Mhadhiri katika masomo ya kisayansi za tarakilishi na pia ni Meneja na mchangiaji katika vyanzo wazi kama vile Common Voice ambao ni mradi ya Mozilla
+
+Tuelezee jinsi ulivyopata kuhusika na mradi  huu wa Common Voice?
+Nilipata kujua kuhusu mradi wa Common Voice mwaka wa 2019 kupitia kwa msimamizi wangu wa shahada ya Falsafa Dk. Tom Denton kutoka Google. Tulijadialiana mambo mengi kuhusu jinsi mashine zinavyoweza kufunzwa kufanya kazi kama binadamu na hivyo ndivyo Common Voice ilivyoibuka . Nia ya mjadiliano huo ilikua kujenga/ kutengeneza injini ya utambuzi wa sauti na kuifanya iwe chanzo wazi
+
+Ukiangalia nyuma tangu ulipoanza kuchangia mradi wa Common Voice Swahili hadi sasa, nini unaweza kusema yamekuwa mafanikio yako?
+Mafanikio makubwa kwangu yamekua kuweza kufufua jamii ya kiswahili haswa hapa Nairobi. Hii ni baada ya jamii ya kiswahili kutokuwepo kwa muda mrefu, lakini baada ya kukutana na watu kama George Githuma, Eunice Manyasi, Hildagard Msuya, Victoria Nyamai, Joan Wambui na wengineo walioweza kujitoa katika kuchangia katika kazi hii ya kujitolea na kutaka kuona kazi inakua kubwa na kuwa na athari nzuri katika siku zijazo.
+
+Ni changamoto zipi ambazo umepitia unapoangalia nyuma kwenye safari hii ya common voice?
+Nitaziita changamoto chanya na ni pamoja na kutenga wakati zaidi mbali na kazi zangu za kila siku ili kuendeleza michango kwa jukwaa la Common Voice. Jamii saa nyingine hupunguka kwa kuwa wachangiaji wengine hujihusisha na mambo mengine na kushawishi watu wajiunge na mradi usiokuwa na zawadi ya kifedha imekua ikinila kichwa pia.
+
+
+Tukiongelea changamoto, ni vipi umeweza kutatua changamoto hizi?
+Njia moja ambayo nimetumia kutatua changamoto hizi, ni kutafuta na kufanya kazi na wachangiaji wenye muonekano mmoja kuhusu mradi huu na pia walioko tayari kufanya kazi ya kujitolea. Kupitia wachangiaji hawa, tumeweza kubadilishana mawazo kuhusu njia mbali mbali za kukuza jamii hii ya wachangiaji ili kufanya kiswahili kuwa lugha maarufu Afrika Mashariki na pia mojawapo ya lugha ambazo mashine za kompyuta zaweza funzwa kuelewa.
+
+Unaweza tuelezea mradi umefikia wapi kwa sasa? Nini kinaendelea vizuri na nini kinaweza kuboreshwa?
+Mradi huu una awamu tatu. Awamu ya kwanza inafanyika katika ukurasa wa Pontoon. Kazi kubwa ya ukurasa huu ni kupokea michango ambayo inasaidia kutafsiri tovuti ya Common Voice Swahili, 86% ya kazi hii imefanyika na inaendelea kufanyika. Awamu ya pili ni uchangiaji wa sentensi ambazo zitatumika kufunza mashine kuelewa Kiswahili. Tayari sentensi 9,000 zimechangishwa na kuidhinishwa na kuchapishwa kwenye ukurasa wa commonvoice.mozilla.org/sw. Sentensi hizi zinatumika katika awamu ya tatu ambayo ni uchangishaji na udhibitishaji wa sauti ambazo zitatumika kufunza mashine za kompyuta kuelewa Kiswahili. Kwa sasa mradi uko kwenye awamu ya tatu ambayo inatarajiwa kuisha mwishoni wa mwaka.
+
+Unadhani mradi huu utachangia vipi kwa kazi  ya jamii nzima ya Natural Language Processing (NLP) na lugha ya Kiswahili?
+Wakati mwingi, lugha za Kiafrika katika jamii hii, hutengwa kwa kukosa rasilimali za kuzifanyia utafiti. Kazi hii ya ujanibishaji wa Kiswahili na pia kufundisha mashine za kompyuta jinsi watu wa kawaida huongea Kiswahili itakuwa ushindi mkubwa kwa jamii hii kwani lugha ya Kiswahili itaweza kujulikana na wengi duniani, hivi kuchangia watu wengi kujifunza lugha hii.
+
+Kwa miezi mitatu ijayo, unatarajia kuona mradi huu umefika wapi? Ni mafanikio gani ungependa kuyaona katika mradi huu?
+Kwangu miezi mitatu ni muda mfupi sana, lakini nitasema, ningependa kuona hifadhidata ya Common Voice Swahili imezinduliwa. Hii itawasaidia watafiti kuanza kuchambua hifadhidata hii na pia kuanza kufundisha mashini za kompyuta kuelewa Kiswahili.
+
+Kuna chochote ungependa kuongeza?
+Nashukuru sana mwenzangu George Githuma na kila mtu kwa jumuiya na kwa msaada tuliyopata kutoka wenzangu na meneja kutoka Mozilla. Imekuwa raha kufanya kazi na timu hii kubwa na natumai kuwa siku zijazo zinaonekana kuwa nzuri kwetu sote.
+
+Mwandishi: George Githuma Njogu
+
+
